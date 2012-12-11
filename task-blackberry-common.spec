@@ -51,3 +51,15 @@ useful for synchronizing with GNOME applications.
 
 %files -n task-blackberry-gnome
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.0-2mdv2010.0
++ Revision: 434275
+- rebuild
+
+* Fri Mar 14 2008 Adam Williamson <awilliamson@mandriva.org> 1.0-1mdv2008.1
++ Revision: 187772
+- import task-blackberry-common
+
+
