@@ -1,6 +1,6 @@
 Name:		task-blackberry-common
 Version:	1.0
-Release:	%{mkrel 2}
+Release:	3
 Summary:	Metapackage for charging and synchronizing Blackberry
 Group:		Communications
 License:	GPLv2+
@@ -9,7 +9,6 @@ Requires:	barry-opensync
 Suggests:	barry-gui
 Suggests:	barry-tools
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 This package is a meta-package for connecting with Blackberry smart
