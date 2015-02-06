@@ -1,6 +1,6 @@
 Name:		task-blackberry-common
 Version:	1.0
-Release:	3
+Release:	4
 Summary:	Metapackage for charging and synchronizing Blackberry
 Group:		Communications
 License:	GPLv2+
